@@ -1,6 +1,6 @@
 # Website Availability and Performance Monitoring
 - [Intro](#intro)
-- [Requirement](#requirements)
+- [Requirements](#requirements)
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Folder structure](#folder-structure)
