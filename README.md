@@ -80,7 +80,7 @@ When the user run the monitoring, a graph user interface appears.
 
 Folder structure
 ----------------
-
+```
 ├── README.md                       <- The Readme !
 ├── Projet Repord.pdf               <- The report
 ├── WebsiteMonitoring.jar           <- Executable jar for the project 
@@ -119,3 +119,4 @@ Folder structure
 │   │   ├── MonitorCheck.java
 │   │   ├── MonitorStatistics.java 
 │   │   ├── MonitorWebsite.java
+```
