@@ -36,7 +36,7 @@ CREATE DATABASE bdd_monitoring DEFAULT CHARACTER SET utf8 COLLATE utf8_general_c
 ``` 
 CREATE USER 'gabrielle'@'localhost' IDENTIFIED BY 'olivia';
 ``` 
-- Give the priviledges to the user
+- Give the privileges to the user
 ``` 
 GRANT ALL ON bdd_monitoring.* TO 'gabrielle'@'localhost' IDENTIFIED BY 'olivia';
 FLUSH PRIVILEGES;
